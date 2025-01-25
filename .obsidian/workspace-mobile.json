@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "cd754fcefd5cb15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b02e1788974aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a21c70ae03a4a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7feab4b9a34244ae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22d720f1c1e42c13",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "17081e7c64a4ba1b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "06c466da0b46177c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4f506c16bca7d543",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "656755c3d9880c13",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f6811af56dc73bde",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8d9316af3f90256a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6dca5ef8bc043b73",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0a21c70ae03a4a01",
+  "lastOpenFiles": [
+    "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 3주차.md",
+    "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 2주차.md",
+    "Untitled.canvas",
+    "algorithm/2025-01-02.md",
+    "ggs",
+    "inbox/42ggs.md",
+    "inbox/[혼공단] '혼자 공부하는 컴퓨터 구조 + 운영체제' 1주차.md",
+    "inbox/[혼공단] 2주차.md",
+    "inbox/[ROS] BasicConcepts.md",
+    "inbox/[ROS] Topics.md",
+    "inbox/[ROS] Interfaces.md"
+  ]
+}
