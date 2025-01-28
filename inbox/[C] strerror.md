@@ -2,7 +2,9 @@
 id: "[C] strerror"
 aliases:
   - "[C] strerror"
-tags: []
+tags:
+  - C
+  - string.h
 ---
 
 # [C] strerror
@@ -12,7 +14,8 @@ tags: []
 ```C
 #include <string.h>
 
-char *strerror(int errnum);
+char
+*strerror(int errnum);
 ```
 
 ## Description
