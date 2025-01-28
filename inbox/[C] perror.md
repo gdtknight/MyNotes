@@ -11,7 +11,10 @@ tags:
 ## Intro
 
 ```C
-void perror(const char *s);
+#include <stdio.h>
+
+void
+perror(const char *s);
 ```
 
 ## Description
